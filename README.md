@@ -10,7 +10,7 @@ I'm a Software Engineer and I specialize in crafting engaging and visually compe
 - 🌱 I’m currently learning JavaScript, Reactjs, Vuejs, Nextjs and React-Native.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://docs.google.com/document/d/1kOc-3q1AYn9dE7Itw_2NjZUmiU4XBqGbpWrSeC3dluw/edit?usp=sharing) and contact me by emailing owoyeleadedayo25@gmail.com.
+- 📫 You can [view my resume]([https://docs.google.com/document/d/1kOc-3q1AYn9dE7Itw_2NjZUmiU4XBqGbpWrSeC3dluw/edit?usp=sharing](https://docs.google.com/document/d/1kOc-3q1AYn9dE7Itw_2NjZUmiU4XBqGbpWrSeC3dluw/edit?usp=sharing)) and contact me by emailing owoyeleadedayo25@gmail.com.
 
 ---
 
